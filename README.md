@@ -1,3 +1,7 @@
+https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif
+
+
+
 <h1 align="center">Hi 👋, I'm jihye</h1>
 <h3 align="center">A passionate backend developer from korea</h3>
 
