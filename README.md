@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from korea</h3>
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
-- 📫 How to reach me **jihye84107752@gmail.com**
+- 📫 How to reach me **jihye84107752@gmail.com/www.youtube.com/@codingstudy83**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
